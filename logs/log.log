@@ -1,0 +1,7 @@
+2021-03-20 17:17:38 [ main:0 ] - [ INFO ] lbw
+2021-03-20 17:21:27 [ main:0 ] - [ INFO ] lbw
+2021-03-20 18:21:03 [ main:0 ] - [ INFO ] lbw
+2021-03-20 18:25:52 [ main:0 ] - [ INFO ] lbw
+2021-03-20 18:33:47 [ main:0 ] - [ INFO ] log4j2 test
+2021-03-20 18:33:47 [ main:3 ] - [ INFO ] lbw
+2021-03-20 18:33:47 [ main:4 ] - [ DEBUG ] logback test
